@@ -1,10 +1,17 @@
-
 <h1 align="center">Hi 👋, I'm Shinjini</h1>
 <h3 align="center">Full-stack pro with Web 3 and blockchain flair, a Noob in Machine Learning.</h3>
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/b1/b6/d3/b1b6d3339eb2f01930edaa8f1a068108.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinjinisen&label=Profile%20views&color=0e75b6&style=flat" alt="shinjinisen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shinjinisen" alt="shinjinisen" /></a> </p>
+
+- 🔭 I’m currently working on **Web3**
+
+- 🌱 I’m currently learning **Pytorch, OpenCV**
+
+- 👯 I’m looking to collaborate on **Full-Stack or AI/ML Projects**
+
+- 💬 Ask me about **React, Node, Express, MongoDB , SQL**
 
 - 📫 How to reach me **shinjinisen24@gmail.com**
 
