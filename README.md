@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shinjini</h1>
 <h3 align="center">Full-stack pro with Web 3 and blockchain flair, a Noob in Machine Learning.</h3>
-<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+<img align="center" alt="Coding" height="400" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shinjinisen" alt="shinjinisen" /></a> </p>
 
 - 🔭 I’m currently working on **Web3**
