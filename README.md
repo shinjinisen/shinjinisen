@@ -1,7 +1,7 @@
-[![MasterHead](https://media.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shinjini</h1>
 <h3 align="center">Full-stack pro with Web 3 and blockchain flair, a Noob in Machine Learning.</h3>
-<img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/b1/b6/d3/b1b6d3339eb2f01930edaa8f1a068108.gif">
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/b1/b6/d3/b1b6d3339eb2f01930edaa8f1a068108.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinjinisen&label=Profile%20views&color=0e75b6&style=flat" alt="shinjinisen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shinjinisen" alt="shinjinisen" /></a> </p>
