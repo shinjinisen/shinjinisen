@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/605899/screenshots/2563861/media/9e959b0a9a9576953a43d82b121bdbe1.gif)](https://rishavchanda.io)
+[![MasterHead]("https://i.pinimg.com/originals/b1/b6/d3/b1b6d3339eb2f01930edaa8f1a068108.gif")](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shinjini</h1>
 <h3 align="center">Full-stack pro with Web 3 and blockchain flair, a Noob in Machine Learning.</h3>
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/b1/b6/d3/b1b6d3339eb2f01930edaa8f1a068108.gif">
