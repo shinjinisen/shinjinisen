@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **shinjinisen24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tggyf_MbpG66WZLQvoPo9rxaWz92_ylQ/view?usp=sharing](https://drive.google.com/file/d/1tggyf_MbpG66WZLQvoPo9rxaWz92_ylQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
