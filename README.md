@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://rishavchanda.io)
+[![MasterHead](https://dribbble.com/shots/2563861--omputer/attachments/9366857?mode=media)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shinjini</h1>
 <h3 align="center">Full-stack pro with Web 3 and blockchain flair, a Noob in Machine Learning.</h3>
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/b1/b6/d3/b1b6d3339eb2f01930edaa8f1a068108.gif">
