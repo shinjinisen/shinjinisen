@@ -55,7 +55,7 @@
 ## 📊 My Github Stats
 
 <br/>
-<a href="https://github.com/shinjinisen/github-readme-stats"><img alt="shinni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shinjinisen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinjinisenx26&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></a>
+<a href="https://github.com/shinjinisen/github-readme-stats"><img alt="shinni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shinjinisen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinjinisen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></a>
 <br/>
 <p align="left">
     <a href="https://github.com/shinjinisen/github-readme-streak-stats">
