@@ -39,10 +39,10 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+  <img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4">
  
  ### ⚙️ Some Tool and Tech I use
-<img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4">
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
