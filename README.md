@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **shinjinisen24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tggyf_MbpG66WZLQvoPo9rxaWz92_ylQ/view?usp=sharing](https://drive.google.com/file/d/1tggyf_MbpG66WZLQvoPo9rxaWz92_ylQ/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shinjinisen-24032003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shinjinisen-24032003" height="30" width="40" /></a>
