@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shinjini👋🏻</h1>
 <br>
-<h3 align="center">MERN Full-stack Web Developer with Web 3 and blockchain flair, pretty novice in AI/ML.</h3>
-<p align= "center">Computer Science & Engineering Student at VIT Vellore practicing growing trends in Cybersecurity/ Information Security. Carry great understanding of networking designs, operating systems analysis , and full-stack development. Currently looking for help in AI/ML Topics, specially OpenCV and Pytorch. Open to work and collaborate on MERN Full-Stack/ JAVA Projects.</p> 
+<h3 align="center">MERN Full-stack Web Developer with flair for problem solving.</h3>
+<p align= "center">Computer Science & Engineering Student at VIT Vellore practicing growing trends in Cybersecurity/ Information Security. Open to work and collaborate on MERN Full-Stack/ JAVA Projects.</p> 
    
    
 <h3>Profile Visits</h3>
