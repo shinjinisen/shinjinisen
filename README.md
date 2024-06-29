@@ -11,11 +11,11 @@
 
     
     
-- 🔭 I’m currently working on **Web3/ Python/ Machine Learning**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Pytorch, OpenCV**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Full-Stack or AI/ML Projects**
+- 👯 I’m looking to collaborate on **Full-Stack Projects**
 
 - 💬 Ask me about **React, Node, Express, MongoDB , SQL, C, CPP, JAVA**
 
