@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
-- 💬 Ask me about **React, Node, AWS, MongoDB , SQL, C, CPP, JAVA**
+- 💬 Ask me about **JAVA, AWS, React, Node, MongoDB , SQL, C, CPP**
 
 - 📫 How to reach me **shinjinisen24@gmail.com**
 
