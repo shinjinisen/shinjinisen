@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shinjini👋🏻</h1>
 <br>
-<h3 align="center">MERN Full-stack Web Developer with flair for problem solving.</h3>
+<h3 align="center">MERN Full-stack Web Developer with flair for DSA.</h3>
 <p align= "center">Computer Science & Engineering Student at VIT Vellore practicing growing trends in Cybersecurity/ Information Security. Open to work and collaborate on MERN Full-Stack/ JAVA Projects.</p> 
    
    
@@ -13,7 +13,7 @@
     
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Opencv**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
