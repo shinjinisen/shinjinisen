@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shinjini👋🏻</h1>
 <br>
 <h3 align="center">MERN Full-stack Web Developer with flair for DSA.</h3>
-<p align= "center">Computer Science & Engineering Student at VIT Vellore practicing growing trends in Cybersecurity/ Information Security. Open to work and collaborate on MERN Full-Stack/ JAVA Projects.</p> 
+<p align= "center">Computer Science & Engineering Student at VIT Vellore practicing growing trends in Cybersecurity/ Information Security.</p> 
    
    
 <h3>Profile Visits</h3>
