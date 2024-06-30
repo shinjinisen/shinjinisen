@@ -10,7 +10,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/shinjinisen/count.svg)
 
     
-- 👨‍💻 Working on **Web Development** with along DSA.
+- 👨‍💻 Working on **Web Development** and DSA.
 - 🔭 I’m currently working on OpenCV Projects
 - 🌱 I’m currently learning MERN Stack
 - 📄 8.98 CGPA with CSE+InfoSec
