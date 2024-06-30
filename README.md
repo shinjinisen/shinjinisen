@@ -10,18 +10,12 @@
 ![Visitor Count](https://profile-counter.glitch.me/shinjinisen/count.svg)
 
     
-    
-- 🔭 I’m currently working on **Web Development**
-
-- 🌱 I’m currently learning **Opencv**
-
-- 👯 I’m looking to collaborate on **Full-Stack Projects**
-
-- 💬 Ask me about **JAVA, AWS, React, Node, MongoDB , SQL, C, CPP**
-
-- 📫 How to reach me **shinjinisen24@gmail.com**
-
-
+👨‍💻 Working on **Web Development** with along DSA.
+🔭 I’m currently working on OpenCV Projects
+🌱 I’m currently learning MERN Stack
+📄 8.98 CGPA with CSE+InfoSec
+☁️Certified: AWS Cloud Practitioner
+📫 How to reach me **shinjinisen24@gmail.com**
 
 
  <h3 align="center">Languages and Tools:</h3>
@@ -100,7 +94,6 @@
 <p align="center">
 
 <a href = "https://www.linkedin.com/in/shinjinisen-24032003/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/shinjiinisen/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </a>
 
 </p>
