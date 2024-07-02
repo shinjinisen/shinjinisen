@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning MERN Stack
 - 📄 8.98 CGPA with CSE+InfoSec
 - ☁️Certified: AWS Cloud Practitioner
-- 📫 How to reach me **shinjinisen.work@gmail.com**
+- 📫 How to reach me **shinjinisen24@gmail.com**
 
 
  <h3 align="center">Languages and Tools:</h3>
