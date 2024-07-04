@@ -83,7 +83,7 @@
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img alt="keras" src="https://camo.githubusercontent.com/6c1504bc94a0bd93c60f42b1f59baa44de2d68ecffdabd61fe8d2dbe12cd3374/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b657261732d2532334430303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4b65726173266c6f676f436f6c6f723d7768697465&logo=mui&logoColor=white"/>
-<img alt="opencv" src="https://camo.githubusercontent.com/17b19bec5d5214f5b217feaeb0bbdb1300e6f47e41b3c15d03a53a774c1db938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6f70656e63762d25323377686974652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6376266c6f676f436f6c6f723d7768697465&logo=mui&logoColor=white"/>
+<img alt="opencv" src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_black.svg?sanitize=true&logo=mui&logoColor=white"/>
 </div>
 
 <!-- <h3 align="left">Languages :</h3>
