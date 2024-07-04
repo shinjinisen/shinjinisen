@@ -54,15 +54,14 @@
 
 
 
-<h1 align="left">👋 Hi, I'm <a href="https://jigarsable.vercel.app" target="_blank"> Jigar Sable </a></h1>
+<h1 align="left">👋 Hi, I'm <a href="https://shinjini.vercel.app" target="_blank"> Shinjini Sen </a></h1>
 <!-- <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3> -->
 
-- 👨‍💻 Full-Stack Developer based in Pune, India.
-- 📫 How to reach me: [jigarsable21@gmail.com](jigarsable21@gmail.com)
-- 📱 Crafted the [SPPU Prep](https://sppuprep.vercel.app) App, loved by **8000+** savvy learners on the [Play Store](https://play.google.com/store/apps/details?id=com.devcodes.sppuprep)
-- ⭐ Star-studded projects like [Flipkart](https://github.com/jigar-sable/flipkart-mern) and [Instagram](https://github.com/jigar-sable/instagram-mern), shining bright with **800+ stars**
-- 🔗 Rocking a cool **20k+ connections** on LinkedIn, let's connect!
-- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://jigarsable.vercel.app)! 💻❤️
+- 👨‍💻 Computer Science & Engineering Student at VIT Vellore practicing growing trends in Cybersecurity/ Information Security
+- 📫 How to reach me: [shinjinisen24@gmail.com](shinjinisen24@gmail.com)
+- 📱 Certified AWS Cloud Practitioner
+- ⭐ Worked majorly on MERN full stack projects and a few hands on Opencv projects
+- 🚀 Get to know more about my projects and academic journey [portfolio](https://shinjinisen.vercel.app)! 💻❤️
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
@@ -104,19 +103,18 @@
 <div align="left">
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div><br/>
 
 <h3 align="left">📊 GitHub Activity:</h3>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=jigar-sable&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=shinjinisen&show_icons=true&theme=dark&locale=en" alt="shinjinisen" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shinjinisen&show_icons=true&theme=dark&locale=en&layout=compact" alt="shinjinisen" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinjinisen&theme=dark" alt="shinjinisen" /></p>
   </div>
 
 
