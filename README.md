@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm <a href="https://portfolio-shinjinisen.vercel.app/" target="_blank"> Shinjini Sen </a></h1>
+<h1 align="left">👋 Hi, I'm <a href="https://portfolio-shinjinisen.vercel.aapp/" target="_blank"> Shinjini Sen </a></h1>
 <!-- <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3> -->
 
 - 👨‍💻 Computer Science & Engineering Student at VIT Vellore practicing growing trends in Cybersecurity/ Information Security
@@ -7,7 +7,7 @@
 - ⭐ Worked majorly on MERN full stack projects
 - 🔭 Working a few hands on Opencv projects and DSA 
 
-- 🚀 Get to know more about my projects and academic journey [portfolio](https://portfolio-shinjinisen.vercel.app/)! 💻❤️
+
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
